@@ -1,0 +1,89 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Provincial Youssoufia"
+      },
+      "geometry": {
+        "coordinates": [
+          -8.522344563939129,
+          32.24716340989215
+        ],
+        "type": "Point"
+      },
+      "id": 0
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "OCP Administration"
+      },
+      "geometry": {
+        "coordinates": [
+          -8.521992627869537,
+          32.25014337080417
+        ],
+        "type": "Point"
+      },
+      "id": 1
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Jarda twila"
+      },
+      "geometry": {
+        "coordinates": [
+          -8.532910652358936,
+          32.24658265058608
+        ],
+        "type": "Point"
+      },
+      "id": 2
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "BMCE BANK"
+      },
+      "geometry": {
+        "coordinates": [
+          -8.532573087319093,
+          32.2487078788964
+        ],
+        "type": "Point"
+      },
+      "id": 3
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Train station"
+      },
+      "geometry": {
+        "coordinates": [
+          -8.53345086774749,
+          32.24687299174529
+        ],
+        "type": "Point"
+      },
+      "id": 4
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Park Saab"
+      },
+      "geometry": {
+        "coordinates": [
+          -8.529762547911957,
+          32.247495612243185
+        ],
+        "type": "Point"
+      },
+      "id": 5
+    }
+  ]
+}
